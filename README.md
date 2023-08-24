@@ -1,2 +1,2 @@
 # pdfMerge
-Simple python code to merge pdf documents
+Simple python gui to merge pdf documents. Uses python3 and TKinter.
